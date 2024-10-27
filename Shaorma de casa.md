@@ -6,16 +6,16 @@ Timp de pregatire
 
 ### Ingrediente:
 #ingrediente 
-- [ ] 1 kg pulpe de pui
-- [ ] 1 catel de ustoroi (pisat sau ras)
-- [ ] o lingura chimen macinat 
-- [ ] o lingura piper cayenne (dupa preferinta)
-- [ ] 2 lingurite ardei macinat afumat paprika 
-- [ ] 2 lingurite sare
-- [ ] 2 linguri zeama de lamaie
-- [ ] 3 linguri ulei de masline (preferabil extravirgin)
-- [ ] o lingura sirop de curmale (modifica substantial gustul)
-- [ ] 2 linguri sos de rosii
+- [x] 1 kg pulpe de pui
+- [x] 1 catel de ustoroi (pisat sau ras)
+- [x] o lingura chimen macinat 
+- [x] o lingura piper cayenne (dupa preferinta)
+- [x] 2 lingurite ardei macinat afumat paprika 
+- [x] 2 lingurite sare
+- [x] 2 linguri zeama de lamaie
+- [x] 3 linguri ulei de masline (preferabil extravirgin)
+- [x] o lingura sirop de curmale (modifica substantial gustul)
+- [x] 2 linguri sos de rosii
 
 ---
 #### Preparare:
@@ -30,3 +30,4 @@ Timp de pregatire
 - se incige o tigaie la foc mediu
 - se aseaza carnea uniform in tigaie si cat mai separat
 - carnea se va lasa dupa preferinte fie rumenita pe o parte, fie pe ambele
+- O modificare
