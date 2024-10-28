@@ -30,4 +30,3 @@ Timp de pregatire
 - se incige o tigaie la foc mediu
 - se aseaza carnea uniform in tigaie si cat mai separat
 - carnea se va lasa dupa preferinte fie rumenita pe o parte, fie pe ambele
-- O modificare
